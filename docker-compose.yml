@@ -1,0 +1,8 @@
+version: '2'
+services:
+  fast-boot:
+    image: fast-boot/fast
+    ports:
+      - "8080:8080"
+    environment:
+      - spring.profiles.active=dev
