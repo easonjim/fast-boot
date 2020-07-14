@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  description: fast-boot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
+  description: fast-boot是一个轻量级的Java快速开发平台，能快速开发项目并交付
   version: 1.0.0
   title: fast-boot快速开发平台
 
